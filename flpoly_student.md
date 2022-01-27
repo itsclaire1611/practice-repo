@@ -1,27 +1,27 @@
-## First Name Last Name
+## Claire Robinson
 
-### Term Year 
+### Spring 2022 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Introduction to Data Science
 
-- Course 2
+- Introduction to Computer Networks
 
-- Course 3
+- Discrete Mathematics
 
-- Course 4
+- Cloud Infrastructure and Services
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Art
 
-- Thing 2
+- Reading
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Cooking as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/01/27
